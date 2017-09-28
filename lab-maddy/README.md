@@ -10,8 +10,6 @@ We are creating our own note app! We'll be using client side routing. With our l
 * We will be able to differentiate between view state and application state
 * We will be able to lift application state to better control one way data flow
 
-#### steps to remember:
-1. babel- npm i -D babel
 
 #### flowchart ?????
 ![flowchart]()
